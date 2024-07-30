@@ -1,0 +1,10 @@
+.idea/blockchain-private-usecase.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+old_fablo/chaincode-node/package-lock.json
+frontend-app/package-lock.json
+/dist
+./fablo-target/node_modules
+./fablo-target/package-lock.json
+./chaincodes/chaincode-property/node_modules
